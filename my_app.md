@@ -1,4 +1,4 @@
-Here is a prompt that I am about to run through claude-code on my local machine. Make this easy to read for claude sonnet 4.5 and create steps or whatever is needed for the full development cycle of this application. Name it something along the lines of Chad is Crazy AI or Chad Loves AI!
+Here is a prompt that I am about to run through claude-code on my local machine. Make this easy to read for claude sonnet 4.5 and create steps or whatever is needed for the full development cycle of this application. Name it something along the lines of Chad is Crazy for AI or Chad Loves AI!
 
 
 Build an application that integrates data from multiple APIs to display the top news stories of the day, along with relevant weather and stock market information for each news article, using an in-memory SQLite  (or similar) database for managing data.
