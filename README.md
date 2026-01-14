@@ -4,6 +4,8 @@
 
 ask for video proof. The app was completed at min 39 imo.
 
+Deployed Dashbaord - https://ez-dash-wl3ecceucp9kdikczkqwer.streamlit.app/
+
 This document chronicles the step-by-step prompts used to build the Chad Loves AI news dashboard application, along with summaries of what was implemented after each prompt.
 
 I enjoyed the fun. Of course I could have used all the claude commands like /plan /dangerously-code /<created_my_own>, or whatever they come out with tommorrow. I simply didn't need to. For me this was about speed, not perfection.
